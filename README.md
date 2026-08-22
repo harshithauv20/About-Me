@@ -1,91 +1,68 @@
-# 👋 Hi, I'm Harshitha U V
+# Hi, I'm Harshitha 👋
 
-🎓 Robotics & Artificial Intelligence Engineering Student at JNNCE, Shivamogga (VTU)  
-🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Robotics  
-💡 Learning by building projects and exploring real-world applications of technology
+I'm a **Robotics & AI Engineering student** interested in building practical solutions using Python, Computer Vision, Machine Learning, and automation.
 
----
+## 🔭 Currently Working On
 
-## 🌱 About Me
+* **VolunteerIQ** — AI-assisted volunteer management and matching platform
+* Computer Vision and AI projects
+* Strengthening my Python and Machine Learning skills
 
-- 🐍 Currently learning Python and improving my programming skills
-- 🤖 Interested in AI, Machine Learning, and Robotics applications
-- 👁️ Exploring Computer Vision using Python and OpenCV
-- 🔬 Enjoy building small projects to understand concepts practically
-- 🚀 Open to internships, collaborations, and learning opportunities
+## 🛠️ Technologies & Tools
 
----
+**Programming:**
+Python,HTML
 
-## 🛠️ Skills & Tools
+**AI & Computer Vision:**
+OpenCV, Machine Learning fundamentals, YOLO
 
-### Programming
-- Python (Basics)
-- HTML
+**Development & Tools:**
+Git, GitHub, Google Colab, Jupyter Notebook, VS Code, Arduino IDE
 
-### AI & Computer Vision
-- Machine Learning (Basics)
-- Computer Vision (Basics)
-- OpenCV
+**Currently Exploring:**
+Generative AI, TypeScript, Web Development
 
-### Tools
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- GitHub
+## 📌 Areas of Interest
 
-### Robotics
-- Arduino
-- Robotics Fundamentals
+* Artificial Intelligence
+* Computer Vision
+* Machine Learning
+* Robotics
+* Intelligent Automation
 
----
+## 🚀 Featured Projects
 
-## 🚀 Projects
+### VolunteerIQ
 
-### 🤝 VolunteerIQ
+AI-assisted platform for NGO volunteer management and volunteer-task matching.
 
-An AI-based NGO support system that helps in volunteer-task matching and provides intelligent recommendations using AI concepts.
+### Eyes on the Road — Lane Detection
 
-**Tools Used:**
-- Machine Learning
-- Generative AI
-- TypeScript
+Computer vision project for detecting lane markings and identifying potential road-safety situations.
 
+### AI Traffic Light Control System
 
-### 🚦 AI Traffic Light Control System
+Computer vision-based traffic light control using vehicle detection.
 
-A computer vision-based project using Python and OpenCV for vehicle detection and intelligent traffic management.
+### Automated Plant Watering System
 
-**Tools Used:**
-- Python
-- OpenCV
-- Jupyter Notebook
+Arduino-based system using soil-moisture sensing to automate plant watering.
 
----
+## 📚 Currently Learning
 
-## 🏆 Achievements
+* Python
+* Data Structures & Algorithms
+* Machine Learning
+* Computer Vision
+* Git & GitHub
+* Generative AI
 
-- 🥇 Winner - Prayukthi 1.0 Department Hackathon (Healthcare Domain)
-- 📖 Published an ebook
+## 🌐 Connect With Me
+
+* LinkedIn
+* Medium
+* GitHub
 
 ---
 
-## 🌱 Currently Learning
-
-- Python Programming
-- Data Structures and Algorithms
-- Machine Learning Fundamentals
-- Building AI-based projects
-
----
-
-## 📫 Connect With Me
-
-📧 Email: harshithauv49@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/harshitha-uv
-
-💻 HackerRank: https://www.hackerrank.com/profile/harshithauv49
-
-✍️ Medium: https://medium.com/@harshithauv2005
-
-📍 Shivamogga, Karnataka, India
+*Building, learning, and improving one project at a time.*
